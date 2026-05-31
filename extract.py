@@ -5,7 +5,7 @@ import json # this is working with json data
 from datetime import date, timedelta # this is library for working with date and time
 
 # Define bronze path layer
-BRONZE_PATH = "data/bronze"
+BRONZE_PATH = "data/bronzes"
 os.makedirs(BRONZE_PATH, exist_ok = True) #creating directory if it does not exist
 
 #rate limiting with semaphores
