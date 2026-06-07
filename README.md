@@ -21,7 +21,7 @@ NESO API → Bronze (JSON) → Silver (PySpark) → Gold → PostgreSQL → Powe
 - 3-page Power BI dashboard
 
 ## Live Dashboard
-Dashboard link for live view(your Power BI link here)
+Dashboard link for live view(https://app.powerbi.com/view?r=eyJrIjoiMDAzM2JmN2UtODlkNC00OWNjLThkZDAtMDNiZmFkODMxNWI0IiwidCI6IjYwN2RjMjliLWFjODItNGQ2NC1hOGI3LWUzMTBhOWIzNDM0YSJ9)
 
 
 
